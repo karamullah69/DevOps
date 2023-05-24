@@ -1,4 +1,4 @@
-## CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous Delivery). It is a set of practices and tools used in software development to automate the process of building, testing, and deploying software changes. CI/CD aims to streamline the development workflow, increase efficiency, and ensure that software updates are delivered to users quickly and reliably.
+### CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous Delivery). It is a set of practices and tools used in software development to automate the process of building, testing, and deploying software changes. CI/CD aims to streamline the development workflow, increase efficiency, and ensure that software updates are delivered to users quickly and reliably.
 
 Here's a breakdown of each component:
 
@@ -10,7 +10,7 @@ Example tools for CI: Jenkins, Travis CI, CircleCI, GitLab CI/CD.
 
 Example tools for CD: Docker, Kubernetes, Jenkins, GitLab CI/CD, AWS CodePipeline.
 
-## Here's an example workflow that combines both CI and CD:
+### Here's an example workflow that combines both CI and CD:
 
 1. A developer makes changes to the codebase and pushes them to a shared version control system like Git.
 2. A CI server (e.g., Jenkins) detects the new code changes and automatically triggers a build process.
